@@ -1,0 +1,39 @@
+h1 {
+  font-size: 60px;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  font-family: Monospace;
+  background-color: orange;
+}
+
+#quote {
+  text-align: center;
+  background-color: #9dd6d6;
+}
+
+h2 {
+  text-align: center;
+}
+
+.history {
+  text-align: center;
+}
+
+button {
+  color: red;
+}
+
+#facts {
+  width: 450px;
+  background-color: #9dd6d6;
+}
+
+b {
+  font-size: 20px;
+}
