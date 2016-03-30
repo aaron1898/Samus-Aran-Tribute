@@ -37,3 +37,16 @@ button {
 b {
   font-size: 20px;
 }
+
+#samus {
+  width: 300px;
+  height: 400px;
+  margin: 0 auto;
+  padding: 10px 10px 10px 10px;
+}
+
+#metroid {
+  width: 200px;
+  height: 300px;
+  margin: 0 auto;
+}
