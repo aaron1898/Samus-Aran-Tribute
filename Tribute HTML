@@ -3,10 +3,14 @@
 
     <body>
       <h1 class="text-center"><span style="color: red">Samus</span><span style="color: orange"> Aran</span></h1>
+      <h2>Interplanetary Bounty Hunter</h2>
+
       <div id="samus">
         <a href="http://metroid.wikia.com/wiki/Samus_Aran"><img class="center img-responsive" alt="Samus in and out of her suit" src="http://goo.gl/Al6vFb"></a>
       </div>
+
       <p id="quote" class="well">"Planet Zebes... I called this place home once, in peaceful times, long before evil haunted the caverns below. Now I shall finally tell the tale of my first battle here... My so-called Zero Mission."</p>
+
       <div>
         <h2>The History of Samus</h2>
         <p class="history">Samus is an intergalactic bounty hunter from the popular <i>Metroid</i> series of Nintendo games. Samus (originally from K-2L) was raised to be a fierce warrior on Planet Zebes. The first <i>Metroid</i> game that was released in North America
@@ -17,21 +21,22 @@
         <p class="history">Samus has been featured in many different games since her original appearance in 1987. One of the most consistant appearances of Samus has been in the <i>Super Smash Brothers</i> franchise. Many of Samus' iconic moves have been carried over in
           the fighting game series. </p>
       </div>
-      <div class="row">
-        <div class="col-xs-6">
+
       <div id="facts" class="well">
         <ul><b>Samus Quick Facts</b>
           <li>Debut in 1987</li>
           <li>Orange, red, and blue are her main colors</li>
           <li>Samus fires many different projectiles</li>
         </ul>
-          </div>
       </div>
-      </div>
+
       <div style="text-align: center">
-        <a href="http://metroid.wikia.com/wiki/Samus_Aran"><button class="btn">Click here to see the Samus Wiki</button></a>
+        <a href="http://metroid.wikia.com/wiki/Samus_Aran"><button id="button" class="btn">Click here to see the Samus Wiki</button></a>
       </div>
+
     </body>
   </div>
+
   <p>Written and Coded by Aaron Lipsitz</p>
+
 </div>
