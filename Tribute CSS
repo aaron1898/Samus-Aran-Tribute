@@ -2,6 +2,10 @@ h1 {
   font-size: 60px;
 }
 
+h2 {
+  color: black;
+}
+
 img.center {
   display: block;
   margin: 0 auto;
@@ -10,6 +14,7 @@ img.center {
 body {
   font-family: Monospace;
   background-color: orange;
+  margin: 50px 10px 10px 10px;
 }
 
 #quote {
@@ -31,7 +36,8 @@ button {
 
 #facts {
   background-color: #9dd6d6;
-  width: 400px;
+  margin: 0 auto;
+  width: 300px;
 }
 
 b {
@@ -49,4 +55,8 @@ b {
   width: 200px;
   height: 300px;
   margin: 0 auto;
+}
+
+#button {
+  margin: 10px;
 }
