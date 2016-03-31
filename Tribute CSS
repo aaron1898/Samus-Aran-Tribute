@@ -30,8 +30,8 @@ button {
 }
 
 #facts {
-  width: 450px;
   background-color: #9dd6d6;
+  width: 400px;
 }
 
 b {
