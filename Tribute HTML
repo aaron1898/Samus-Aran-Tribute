@@ -17,12 +17,16 @@
         <p class="history">Samus has been featured in many different games since her original appearance in 1987. One of the most consistant appearances of Samus has been in the <i>Super Smash Brothers</i> franchise. Many of Samus' iconic moves have been carried over in
           the fighting game series. </p>
       </div>
+      <div class="row">
+        <div class="col-xs-6">
       <div id="facts" class="well">
         <ul><b>Samus Quick Facts</b>
           <li>Debut in 1987</li>
           <li>Orange, red, and blue are her main colors</li>
           <li>Samus fires many different projectiles</li>
         </ul>
+          </div>
+      </div>
       </div>
       <div style="text-align: center">
         <a href="http://metroid.wikia.com/wiki/Samus_Aran"><button class="btn">Click here to see the Samus Wiki</button></a>
